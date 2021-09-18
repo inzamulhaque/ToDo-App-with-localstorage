@@ -80,7 +80,7 @@ const ToDo = () => {
 
                     <div className="showItems">
                         <button className="btn" onClick={removeAll}>
-                            <span> CHECK LIST </span>
+                            <span> CLEAR LIST </span>
                         </button>
                     </div>
                 </div>

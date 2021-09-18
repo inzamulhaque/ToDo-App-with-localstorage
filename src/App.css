@@ -195,4 +195,9 @@ input:focus {
     min-width: 80vw !important;
     margin: auto;
   }
+
+  .eachItem {
+    min-width: 80vw !important;
+    margin: auto;
+  }
 }
